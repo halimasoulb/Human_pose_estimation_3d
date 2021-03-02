@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../intel64/Release/lib/libmodels.a  CMakeFiles/models.dir/src/detection_model.cpp.o CMakeFiles/models.dir/src/detection_model_ssd.cpp.o CMakeFiles/models.dir/src/detection_model_yolo.cpp.o CMakeFiles/models.dir/src/segmentation_model.cpp.o
+/usr/bin/ranlib ../../intel64/Release/lib/libmodels.a
